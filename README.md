@@ -5,7 +5,7 @@ Separated from [Amazon Captcha Solver](https://github.com/a-maliarov/amazon-capt
 
 |Folder|Usage|
 |---|---|
-|*unique*|**13000** captchas containing unique patterns**|
+|*unique*|**13000** captchas containing unique patterns|
 |*backup*|backup training data for the solver|
 
 ---
