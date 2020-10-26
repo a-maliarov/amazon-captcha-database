@@ -1,5 +1,5 @@
 # Amazon Captcha Database
-Separated from [Amazon Captcha Solver](https://github.com/a-maliarov/amazon-captcha-solver), repository to store captcha images and other non-script data.
+Separated from [AmazonCaptcha](https://github.com/a-maliarov/amazoncaptcha), repository to store captcha images and other non-script data.
 
 ---
 
